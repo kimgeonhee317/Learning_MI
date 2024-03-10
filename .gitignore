@@ -1,0 +1,4 @@
+*.pth
+*.ptc
+.DS_Store
+Thumbs.db
